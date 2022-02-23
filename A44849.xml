@@ -1,0 +1,973 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of many natural rarities ... collected by Robert Hubert, aliàs Forges, Gent. ... and dayly to be seen at the place called the Musick House at the Miter, near the west end of St. Pauls Church.</title>
+            <author>Hubert, Robert, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 62 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44849</idno>
+            <idno type="STC">Wing H3243</idno>
+            <idno type="STC">ESTC R19691</idno>
+            <idno type="EEBO-CITATION">12172690</idno>
+            <idno type="OCLC">ocm 12172690</idno>
+            <idno type="VID">55468</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44849)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55468)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 108:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of many natural rarities ... collected by Robert Hubert, aliàs Forges, Gent. ... and dayly to be seen at the place called the Musick House at the Miter, near the west end of St. Pauls Church.</title>
+                  <author>Hubert, Robert, 17th cent.</author>
+               </titleStmt>
+               <extent>[2], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Ratcliffe for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Yale University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Curiosities and wonders --  Early works to 1800 --  Catalogs.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55468:1"/>
+            <pb facs="tcp:55468:1"/>
+            <p>A CATALOGUE OF MANY Natural RARITIES, WITH Great Induſtry, Coſt, and thirty Years travel in Foraign Countries,</p>
+            <p>COLLECTED BY <hi>ROBERT H<g ref="char:V">Ʋ</g>BERT,</hi> alias <hi>FORGES,</hi> Gent. and ſworn Servant to His Majeſty.</p>
+            <p>And dayly to be ſeen, at the place called the <hi>Muſick Houſe,</hi> at the <hi>MITER,</hi> near the Weſt end of St. <hi>Pauls</hi> Church.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Tho. Ratcliffe,</hi> for the Author, 1664.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:55468:2"/>
+            <pb n="1" facs="tcp:55468:2"/>
+            <head>A CATALOGUE OF MANY Natural RARITIES.</head>
+            <div n="1" type="part">
+               <div n="1" type="section">
+                  <head>
+                     <hi>I.</hi> Rarities H<g ref="char:V">Ʋ</g>MAN.</head>
+                  <p>
+                     <seg rend="decorInit">A</seg> 
+                     <hi>Giants Thigh-bone,</hi> more than 4. feet in Length; found in <hi>Syria.</hi>
+                  </p>
+                  <p>A <hi>Mummy,</hi> intire, and a<g ref="char:EOLhyphen"/>dorned with Hieroglyphicks, that ſhew both the Antiquity, and emi<g ref="char:EOLhyphen"/>nent Nobility of the Perſon, whoſe Corps
+<pb n="2" facs="tcp:55468:3"/>
+it is, taken out of one of the Egyptian Py<g ref="char:EOLhyphen"/>ramids.</p>
+               </div>
+               <div n="2" type="section">
+                  <head>
+                     <hi>II.</hi> Rarities of BEASTS and Parts of them.</head>
+                  <p>A <hi>Hahut</hi> or <hi>Sloth,</hi> a fourfooted Ani<g ref="char:EOLhyphen"/>mal of <hi>America,</hi> in the Head and Neck ſomewhat reſembling a Man. It hath 3. Clawes one each foot, but the Clawes are like a Boares tuskes, it is of <hi>Florida,</hi> and is the ſloweſt of all Beaſts, from whence it hath its Name. It was given by <abbr>Eſq</abbr> 
+                     <hi>Scott,</hi> an ingenious Gentleman and a great travel<g ref="char:EOLhyphen"/>ler in <hi>America.</hi>
+                  </p>
+                  <p>A <hi>Haget,</hi> which ſleepes ſix months: it is a creature of the Iſland <hi>Mayonto</hi> in the Lake <hi>Yondarro,</hi> two hundred miles from <hi>Hud<g ref="char:EOLhyphen"/>ſons</hi> river in <hi>America,</hi> it hath a Coſtly furre, and is held for excellent meat in that Coun<g ref="char:EOLhyphen"/>try.</p>
+                  <p>A <hi>Linx,</hi> it is a fierce creature with an ex<g ref="char:EOLhyphen"/>cellent furre, it is as big as an ordinary water Spaniel, and is a very quick ſighted creature, this beaſt leap't from a tree, and
+<pb n="3" facs="tcp:55468:3"/>
+had almoſt kill'd a Woman, but that ſhe was ſpeedily delivered by a Moor, who ſhot him to death. It was given by Mr. <hi>Linzey</hi> Chirurgion of <hi>Popler.</hi>
+                  </p>
+                  <p>An <hi>Ermine;</hi> which living had rather ſuf<g ref="char:EOLhyphen"/>fer death, then to be defiled; as ſome Au<g ref="char:EOLhyphen"/>thers teſtifie.</p>
+                  <p>A Monſtrous <hi>Catt,</hi> with two bodies, one head, eight leggs and two tayles, it was preſented by worthy Mr. <hi>Thornton,</hi> Chaplaine to the right honorable the Earle of <hi>Bedford.</hi>
+                  </p>
+                  <p>A Muske <hi>Ratt</hi> of <hi>Ruſſia,</hi> this Creature lives in freſh rivers and has a large long tayle and duck-feet behinde, the better to ſwimme withall.</p>
+                  <div type="subsection">
+                     <head>Parts of Beasts.</head>
+                     <p>The Hornes of a <hi>Dog,</hi> of a Land near <hi>China.</hi>
+                     </p>
+                     <p>The Hornes of a <hi>Hare,</hi> which were the Prince Electors of <hi>Saxony.</hi>
+                     </p>
+                     <p>A <hi>Rinoceros</hi> Horne, that was alſo given by
+<pb n="4" facs="tcp:55468:4"/>
+his Highneſſe the Duke of <hi>Holſtein.</hi>
+                     </p>
+                     <p>The Claw and Scale of a <hi>Rinoceros,</hi> which is eſteemed the <hi>
+                           <g ref="char:V">Ʋ</g>nicorne.</hi>
+                     </p>
+                     <p>A very long winding Horne of a <hi>Ram</hi> in <hi>Germany.</hi>
+                     </p>
+                     <p>The Black hornes of a <hi>Ruſſia Ram,</hi> four growing together; two ſtreight, and two crooked.</p>
+                     <p>A ſtrange horne of a <hi>
+                           <g ref="char:V">Ʋ</g>irginia Deere.</hi>
+                     </p>
+                     <p>A ſtrange horne of a <hi>German</hi> Raine <hi>Deere.</hi>
+                     </p>
+                     <p>Another ſorte of Raine <hi>Deeres</hi> horne.</p>
+                     <p>A pair of <hi>Antlopes</hi> hornes.</p>
+                     <p>A Male and Female <hi>Barbarouſes</hi> heads, either of them are as big as a Swines head; it is a ſtrange beaſt of the Deſerts of <hi>East India,</hi> it hath two tusks like a Boare in the lower jaw, and two great tusks growing up<g ref="char:EOLhyphen"/>on the noſe.</p>
+                     <p>A <hi>Guinney Bats-skin,</hi> larger then a great Coney skin.</p>
+                     <p>
+                        <pb n="5" facs="tcp:55468:4"/>A ſoft Ball of haire, bigger then a mans fiſt, found in the maw of a Calf in <hi>Holland.</hi>
+                     </p>
+                     <p>A Black Ball, with a hard ſhell found in the ſtomack of a wilde Bull in <hi>Braſil.</hi>
+                     </p>
+                     <p>A little <hi>Orbicular</hi> Ball, hard and light, found in the ſtomack of a ſtrange beaſt of <hi>India.</hi>
+                     </p>
+                     <p>A ſtrange Tuske of a great Boar.</p>
+                     <p>A great Tooth of an <hi>Hippopotamus.</hi>
+                     </p>
+                     <p>Beſides the things above mentioned, there are in a cheſt great variety of ſtrange bones, teeth and clawes of many different Crea<g ref="char:EOLhyphen"/>tures.</p>
+                  </div>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>III.</hi> BIRDS.</head>
+                  <p>A <hi>Phenicopter</hi> or <hi>Paſſoflamingo;</hi> given by the Ingenious Lover of Rarities Mr. <hi>Povey</hi> Treaſurer to his Highneſſe the Duke of <hi>Yorke.</hi> This bird is good meat and was much eſteemed by the delicate-mouthed <hi>Romans.</hi>
+                  </p>
+                  <p>
+                     <pb n="6" facs="tcp:55468:5"/>A <hi>Manncodiata,</hi> or Bird of <hi>Paradiſe</hi> with feet, for it hath great feet, to ſhew that it perches on trees in a land as yet unknown: for they are never ſeen alive; but are found always dead in the <hi>Moluccos Iſlands,</hi> by reaſon of a continual wind that bloweth ſix months one way &amp; ſix months the other way and becauſe of their ſharp head, little body, and a great feathered tayle, they are blown up ſo high that they fall dead in another climat or Countrey.</p>
+                  <p>A Bird called the <hi>Alcion</hi> of Eaſt <hi>India.</hi>
+                  </p>
+                  <p>A <hi>Tropick</hi>-bird, this Bird is called ſo, becauſe that kind is ſeen near the Tropick or under the line: for when the Mariners ſee them fly in the aire, they then can conjec<g ref="char:EOLhyphen"/>ture where about they are. It is a Sea foule, of a gray colour, but the quills of the feathers of his wings are black, and the feathers white, and his bill like a crow, but very red; and his feet like a duckes, but of two colours.</p>
+                  <p>An <hi>Arcuata Coccinea,</hi> a ſort of Sea-<hi>Cur<g ref="char:EOLhyphen"/>lew,</hi> highly eſteemed by the Natives of <hi>Braſile,</hi> who call it <hi>Guaro.</hi> It changes the colour of its feathers thrice, <hi>viz.</hi> from
+<pb n="7" facs="tcp:55468:5"/>
+black to aſh-colour, and then to white, but the ſecond year put on new ones of a ſcar<g ref="char:EOLhyphen"/>let, which the longer the bird lives it growes more bright and orient; It is found in <hi>Ma<g ref="char:EOLhyphen"/>rahoon</hi> and <hi>Rio de Janciro.</hi> Given me toge<g ref="char:EOLhyphen"/>ther with the full Relation of it, by the learned Dr. <hi>Charlton</hi> one of the Kings Ma<g ref="char:EOLhyphen"/>jeſties Phyſitians in ordinary, and excellent<g ref="char:EOLhyphen"/>ly knowing in Natural Rarities.</p>
+                  <p>A ſtrange <hi>Sea-fowle</hi> as big as a Gooſe; it is called the Sea <hi>Pinguin,</hi> it cannot fly, for his wings are like finnes, and is ſo thick of fea<g ref="char:EOLhyphen"/>thers that one cannot ſhoote him, unleſſe behinde againſt the growth of his thick down or feathers, he is found threeſcore leagues from the Coaſt of <hi>Canada.</hi>
+                  </p>
+                  <p>A <hi>Sea-Crow,</hi> it is as big as a Raven, it hath feet like a Duck and a bill like a Crow.</p>
+                  <p>A <hi>Sea-Parret,</hi> or <hi>Coppernoſe</hi> of <hi>Greene<g ref="char:EOLhyphen"/>land,</hi> the bill is of ſeveral colours, but the feet of a ſcarlet, and like a Duck.</p>
+                  <p>A Great Bird of <hi>Guiney</hi> called the <hi>Guiney Wake,</hi> it reſembles ſomething a Pea-cocke on the head, and hath a tuffe like the bri<g ref="char:EOLhyphen"/>ſtles
+<pb n="8" facs="tcp:55468:6"/>
+of a Hog on the top of his head, and hath a ſcent like musk, and as ill-favored feet as the Peacock.</p>
+                  <p>Several <hi>Tominci</hi> or <hi>Humming</hi> Birds of ſeveral countries, which live by the dew that they ſuck from the flowers with their little long tongues.</p>
+                  <p>A very rare little Bird. The Neſt and the Bird altogether do not weigh 24. graines, it is a leſſer ſpecies of <hi>humming</hi> Bird then ordi<g ref="char:EOLhyphen"/>nary.</p>
+                  <p>The <hi>Head</hi> and <hi>Bill</hi> of the Bird <hi>Ibis</hi> of <hi>Aegypt;</hi> it is the bird that taught the uſe of Glyſters; and in that Countrey there is a Law that condemnes any to death, who kills one of them. For they devoure the Serpents in thoſe parts.</p>
+                  <p>An Indian <hi>Storkes</hi> head and bill.</p>
+                  <p>An <hi>Acoras</hi> head and bill of <hi>Braſil.</hi>
+                  </p>
+                  <p>A <hi>Pelicans</hi> head, bill and bag with the feet, to prove that it is a water fowle: he does not make himſelf to bleed a purpoſe for his young ones, but by accident, by carrying of
+<pb n="9" facs="tcp:55468:6"/>
+ſhellfiſhes in his thin bag makes it to bleed.</p>
+                  <p>A <hi>Toucans</hi> head and bill of <hi>Peru;</hi> the head and bill of that bird are bigger then all his body; it is a very rare one and did be<g ref="char:EOLhyphen"/>long to the King of <hi>Spain.</hi>
+                  </p>
+                  <p>The Head and Legge of an <hi>Eſtridge.</hi>
+                  </p>
+                  <p>The Head and Bill of a <hi>Stone-pecker,</hi> of <hi>Germany.</hi>
+                  </p>
+                  <p>A Legge of a <hi>Caſoware</hi> or <hi>Emen.</hi>
+                  </p>
+                  <p>A Legge of a <hi>Dodo</hi> a great heavy bird that cannot fly; it is a bird of the <hi>Mauri<g ref="char:EOLhyphen"/>cius</hi> Iſlan.</p>
+                  <p>Several ſorts of <hi>Egges,</hi> of bird, fiſhes and ſerpents.</p>
+                  <p>The <hi>Nest</hi> of a <hi>Bird</hi> in <hi>Africa,</hi> built with a long Neck on a Tree, to ſecure himſelf and young ones from <hi>Apes</hi> and <hi>Monkies.</hi>
+                  </p>
+                  <p>A <hi>Neſt</hi> of a Bird made like the ſecret parts of a man, by a little Bird in <hi>Braſil,</hi> to ſecure him and his young ones from the Serpents.</p>
+                  <p>
+                     <pb n="10" facs="tcp:55468:7"/>A <hi>Neſt</hi> of another Bird, made like ano<g ref="char:EOLhyphen"/>ther thing and of other materials, it is alſo built on a tree, but of a Countrey diſtant from <hi>Braſil</hi> above 3000 miles.</p>
+                  <p>An other <hi>Neſt</hi> of a little Bird of <hi>India,</hi> but no body does know of what material it is made, yet the great perſons of that Coun<g ref="char:EOLunhyphen"/>try eates it for good meat.</p>
+                  <p>A large buſh of black feathers, that for the Rarity, and beauty, doth exceed that which the maſter of theſe Rarities did ſee, of the great Turks or Sultan at <hi>Conſtantino<g ref="char:EOLhyphen"/>ple.</hi>
+                  </p>
+               </div>
+               <div n="4" type="section">
+                  <head>
+                     <hi>IV.</hi> FISHES.</head>
+                  <p>A <hi>Sea Elephant</hi> or <hi>Rock</hi> fiſhes head as big as a buſhell. This ſort of fiſh loves to be near the Rocks therefore the Seamen when they eſpy the fiſh, come not near the place, for fear of a Rock under wa<g ref="char:EOLhyphen"/>ter.</p>
+                  <p>The Head of a <hi>Sea-ſheep,</hi> of <hi>Caepe de Vert</hi>
+                     <pb n="11" facs="tcp:55468:7"/>
+in <hi>Africa,</hi> the fiſh is good meat and the head very like a ſheeps head.</p>
+                  <p>A <hi>Sea-Lyons</hi> head, for its forme it is a ſpecies of doggefiſh, but is very good meat eſpecially the liver.</p>
+                  <p>A <hi>Crack-Shell</hi>-fiſhes head, this fiſh lives upon ſhell-fiſhes, and hath three great teeth in the inner part of his mouth, with the which he grinds the ſhells to ſmall pee<g ref="char:EOLhyphen"/>ces, it is a fiſh of <hi>America.</hi>
+                  </p>
+                  <p>A great <hi>Sea-Catts</hi> head of <hi>China.</hi>
+                  </p>
+                  <p>A great <hi>Sturgeons</hi> bead of the <hi>German</hi> Ocean; The <hi>Sturgeon</hi> hath no teeth, but receives his food by a round hole that is un<g ref="char:EOLhyphen"/>der his head, by which he ſucks in his food.</p>
+                  <p>A <hi>Head</hi> and <hi>Tayle</hi> of a <hi>Dolphin,</hi> the <hi>Dol<g ref="char:EOLhyphen"/>phins</hi> tayle is different from all other fiſhes for it growes thwartwiſe the better to re<g ref="char:EOLhyphen"/>bound out of the water, as he does often a<g ref="char:EOLhyphen"/>gainſt a ſtorme.</p>
+                  <p>A great <hi>Sword-Fiſhes</hi> head and Sword of the black Sea; it is one of the ſwifteſt fiſhes that ſwims, and is excellent meat, ſlic'd,
+<pb n="12" facs="tcp:55468:8"/>
+broyled, with oyle peper and ſalt and the juice of a lemon on it.</p>
+                  <p>The Scull of a <hi>Sea-Morce</hi> of <hi>Greene</hi> land, this fiſh does ſleep hanging on the Rocks by the great teeth of the upper jaw and ſo is taken in <hi>Norway.</hi>
+                  </p>
+                  <p>A ſtrange fiſhes head that did belong to the King of <hi>Bohemia.</hi>
+                  </p>
+                  <p>An Extraordinary great <hi>Tortiſes</hi> head of Eaſt <hi>India,</hi> it is called the <hi>Logger-headed</hi> Tortoiſe.</p>
+                  <p>A fiſh called the <hi>Dagger fiſh</hi> for the forme of the head, it is a ſpecies of <hi>Sea <g ref="char:V">Ʋ</g>nicorne.</hi>
+                  </p>
+                  <p>The Head of a fiſh of <hi>Madagaſcar,</hi> this fiſh moves the upper jaw, and not the lower.</p>
+                  <p>The Head of a fiſh that is found in freſh rivers as the <hi>Danubius</hi> in <hi>Hungaria,</hi> and the <hi>Elbe</hi> in <hi>Saxe,</hi> it is a fiſh with a round great head and ſmall eyes and two long hornes like a beard, and is a good taſted fiſh, and is called <hi>Siluti.</hi>
+                  </p>
+                  <div type="subsection">
+                     <pb n="13" facs="tcp:55468:8"/>
+                     <head>Whole Fiſhes.</head>
+                     <p>A <hi>Shoveller</hi> or <hi>Blew Sharke,</hi> very per<g ref="char:EOLhyphen"/>fect, given by Doctor <hi>Eaſtgate,</hi> Phyſician <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n <hi>Popler.</hi>
+                     </p>
+                     <p>A <hi>Monk-fiſh Shark,</hi> the Sharke does in<g ref="char:EOLhyphen"/>gender like fourfooted creatures on land, and has ten or twelve at a litter; When their young ones are in any danger they re<g ref="char:EOLhyphen"/>ceive them in their ſtomach and then diſ<g ref="char:EOLhyphen"/>gorge them out again.</p>
+                     <p>A Spotted <hi>Dog-fiſh</hi> of the Coaſt of <hi>France.</hi>
+                     </p>
+                     <p>A <hi>Shovell Dogge fiſh,</hi> it is a ſpecies of <hi>Sharke,</hi> his eyes are ſeated afore diſtant one from another: It was given by his high<g ref="char:EOLhyphen"/>neſſe the Duke of <hi>Holſtein.</hi>
+                     </p>
+                     <p>A great <hi>Frog fiſh</hi> of the <hi>Baltick</hi> Sea, this fiſh is as big as a great hog.</p>
+                     <p>A <hi>Sea Otter,</hi> this Creature is an <hi>Amphibi<g ref="char:EOLhyphen"/>um,</hi> and hath his forefeet like ſinnes: but ſeated in the midſt of his body like a croſſe; his skinn is hairy like down or ſilk, it is ſo ſoft and bright.</p>
+                     <p>
+                        <pb n="14" facs="tcp:55468:9"/>A <hi>Sea Leopard,</hi> ſo called from his ſpots, it is a ſpecies of <hi>Seale,</hi> and is alſo an <hi>Am<g ref="char:EOLhyphen"/>phibium.</hi>
+                     </p>
+                     <p>A little <hi>Sea Calfe</hi> or <hi>Seale</hi> which alſo par<g ref="char:EOLhyphen"/>ticipates of both Elements, and hath foure feet but ſhort, the two hinder broad, and no eares, the better to endure long in the water. <hi>Olaus</hi> the Great writes, that this crea<g ref="char:EOLhyphen"/>ture is the moſt unconſtant to his female of any; which is the cauſe often times of his death, for the fiſher men to take him coun<g ref="char:EOLhyphen"/>terfit the braying of a female, they are common in the <hi>Finland Sea.</hi>
+                     </p>
+                     <p>A <hi>Sea Wolf,</hi> it is a creature that hath the ſtrongeſt teeth and bites the hardeſt of any for his bigneſſe: for his head being cut off from his body living, a quarter or half an hour after is able to bite ones hand off.</p>
+                     <p>A <hi>Sea Ape,</hi> for his forme, and is called the Joynt fiſh for its nature, for if one holds ones hand afore his head, when he is living it makes the joynts of hand and arme to cracke, this fiſh is found in <hi>Braſil.</hi>
+                     </p>
+                     <p>A little <hi>Tortoiſe,</hi> called the <hi>Hawks-bill-Tortoiſe.</hi>
+                     </p>
+                     <p>
+                        <pb n="15" facs="tcp:55468:9"/>A <hi>Sea Tortoiſe</hi> hath 3. hearts, and it is of a threefold nature, for it lives in the Sea like a fiſh, it layes egges in the ſand by the ſhoar ſide, to be hatcht by heat like a fowle, and it crawles one 4. fennes like feet, and hath fleſh and blood like a 4. footed beaſt.</p>
+                     <p>A leſſe <hi>Tortoiſe</hi> newly hatch't out of his egge; all <hi>Sea Tortoiſes</hi> are good meate when they are in ſeaſon.</p>
+                     <p>A great <hi>Sea Tortoiſe;</hi> it is a Creature much addicted to generating, for the male will remain on the female ten days or more, to the great impoveriſhing of himſelf to car<g ref="char:EOLhyphen"/>ry on, but to the bettering of the female in her laying of foure or five hundred of egges at a time, in a hole ſhe makes in the ſands, then covers them, and ſo they are after<g ref="char:EOLhyphen"/>wards hatched by the Sun.</p>
+                     <p>A Male <hi>Conny fiſh,</hi> armed with a hard ſhell, and two hornes, or prickles before and two behind.</p>
+                     <p>A <hi>Triangular fiſh;</hi> it is a female <hi>Conny fiſh,</hi> larger then the male, the better to contain her ſpawne, and is alſo armed with the like hard ſhell, but not with prickles.
+<pb n="16" facs="tcp:55468:10"/>
+Nature forcing her to follow the male for her defence.</p>
+                     <p>A long narrow fiſh called the <hi>Sea Pelican:</hi> for the forme of his head. Alſo it is called the <hi>Sea Dart,</hi> for the forme of his body and and tayle that is like the head of a barbed ar<g ref="char:EOLhyphen"/>row.</p>
+                     <p>A great <hi>Sea Porcupine fiſh</hi> of the Weſt <hi>In<g ref="char:EOLhyphen"/>dia.</hi>
+                     </p>
+                     <p>A <hi>Hedge-Hog-fiſh.</hi> It is a ſpecies of the <hi>Sea Porcupine,</hi> only the prickles are ſhorter. It was given as an addition of theſe Rarities by his Highneſſe the Duke of <hi>Holſtein.</hi>
+                     </p>
+                     <p>A <hi>Sea Mouſe,</hi> ſo called for the forme of his head and beard; this fiſh contrary to the nature of other fiſhes ſhricks in the water and out of the water like a mouſe, but for his ſinnes he is ſomething like a Serpent in colour, and is about a foot long, but is very good meat.</p>
+                     <p>A great horned <hi>Soal fiſh.</hi> It is like a large Soal, but hath his Mouth right a fore, with one great horne between his eyes, and both the ſides of his body of one colour,
+<pb n="17" facs="tcp:55468:10"/>
+different from the Nature of other Soales that are brown of one ſide and white on the other.</p>
+                     <p>A <hi>Saw fiſh,</hi> Vulgarly called the Sword-fiſh, but is not. This fiſh is the enemy to the <hi>Whale;</hi> for with the prickles of his wea<g ref="char:EOLhyphen"/>pon he torments the Whale ſo much that the great monſtrous fiſh kills her ſelf by ſwim<g ref="char:EOLhyphen"/>ing too haſtily without her Pilot-fiſh againſt the ſhore, her body being ſo fat and heavy, and her skin ſo thin.</p>
+                     <p>A little prickled <hi>Dog fiſh</hi> of the <hi>German Sea.</hi>
+                     </p>
+                     <p>A <hi>Sturgeon</hi> of <hi>Holland.</hi>
+                     </p>
+                     <p>A <hi>Sturgeon</hi> of an other ſpecies, ſuch as is found in <hi>Italy.</hi>
+                     </p>
+                     <p>A <hi>Parret,</hi> or <hi>Angrey fiſh</hi> of <hi>Braſile,</hi> it is a ſpecies of Globe-fiſh, which cannot ſwim in a ſtorme, and therefore fills his maw with ſtones, to lye ſteady in the bottom of the water.</p>
+                     <p>A <hi>Sucking fiſh</hi> of <hi>Ice land,</hi> it is a ſpecies of <hi>Lump-fiſh,</hi> that cannot ſwim likewiſe in a ſtorme, but ſticks to the Rocks, with a
+<pb n="18" facs="tcp:55468:11"/>
+ſeeming mouth that is under the fore part of his belly.</p>
+                     <p>A <hi>Poyſon fiſh</hi> of <hi>East India,</hi> ſo venemous that thirteen men in a ſhip dyed by eating of one of them, he is called by ſome the <hi>Sea Hare;</hi> he is for his forme ſomething long and foure ſquare and is a ſpecies of <hi>Conny-fiſh.</hi>
+                     </p>
+                     <p>An <hi>Hermit fiſh</hi> of the bottome of the Sea, it is a creature that liveth in the ſhell of an other fiſh, the fiſhermen makes uſe of them to baite other fiſhes withal.</p>
+                     <p>A <hi>Souldier fiſh,</hi> it is a creature that liveth on Mountains or highland in the <hi>Caribea</hi> Iſlands under the rootes of trees, but once a year cometh to the Sea ſide to ſpawn in vaſt multitudes, and then they poſſeſs themſelves of the ſhells of other fiſhes, and ſo march back again with their plundred ſhells.</p>
+                     <p>A <hi>Woodcock fiſh</hi> of the the <hi>Baltic</hi> Sea, his head is like a long bill full of ſharp teeth, and for the length it is counted a <hi>Sea Serpent.</hi>
+                     </p>
+                     <p>A Prickled <hi>Tead fiſh</hi> of <hi>India,</hi> being a ſpecies of <hi>Globe fiſh.</hi>
+                     </p>
+                     <p>
+                        <pb n="19" facs="tcp:55468:11"/>A 4. Prickled fiſh of Eaſt <hi>India.</hi> All other fiſhes, though greater, are afraid of him, for his prickles that he hath before and be<g ref="char:EOLhyphen"/>hind; therefore they will not come near him, and he is alwayes taken alone.</p>
+                     <p>An <hi>Angel fiſh,</hi> ſo called for his beautifull colours, that he hath under water, this is of the <hi>Weſt Indias.</hi>
+                     </p>
+                     <p>A great <hi>flying-fiſh</hi> or <hi>Sea Swallow,</hi> that flyes ſometimes aboard the ſhips, and think<g ref="char:EOLhyphen"/>ing to eſcape a fiſh that is his adverſary, be<g ref="char:EOLhyphen"/>comes a good friend to man, by being good meat, when well dreſs'd.</p>
+                     <p>A <hi>Trumpet fiſh</hi> of the Baltic Sea, it is a kind of <hi>Sea Serpent,</hi> and ſomewhat reſem<g ref="char:EOLhyphen"/>bleth the <hi>Needel fiſh.</hi>
+                     </p>
+                     <p>A <hi>Smith fiſh,</hi> it is likewiſe called S. <hi>Peters</hi> fiſh, the one half is the head, and the other half is the body; it was given by his High<g ref="char:EOLhyphen"/>neſſe the <hi>Landgrave</hi> of <hi>Heſſen.</hi>
+                     </p>
+                     <p>A <hi>Wave fiſh</hi> ſo called for the manner of the growing of his ſcales.</p>
+                     <p>A <hi>Weapon fiſh</hi> of <hi>Bermudos,</hi> this fiſh hath a
+<pb n="20" facs="tcp:55468:12"/>
+long ſharp bone on his back to defend him<g ref="char:EOLhyphen"/>ſelf, which he raiſeth, or letteth fall in a hollow caſe, when he will.</p>
+                     <p>An other ſort of <hi>Weapon fiſh</hi> of the Weſt <hi>Indias.</hi>
+                     </p>
+                     <p>A fiſh called the <hi>Sea cocke</hi> of the <hi>Spaniſh</hi> coaſts</p>
+                     <p>A little fiſh of <hi>Guiney</hi> called the <hi>Cataphra<g ref="char:EOLhyphen"/>ctus,</hi> that hath two prickles before, that are venemous.</p>
+                     <p>A <hi>Sun fiſh,</hi> for ſleeping in the Sun it is alſo called the <hi>Moon-fiſh,</hi> for ſhining in the night to the amazement of Seamen that ſees ſo great a light; this fiſh is of a ſtrange forme, for 'tis like a head onely, but hath a very little mouth for ſo great a body.</p>
+                     <p>A great <hi>Netted Stare fiſh,</hi> for his forme, it is one of the ſenſibleſt creatures of the world, and hath but one eye. It was given by Sr. <hi>Thomas Wardner</hi> Governour of Sr. <hi>Chriſtophers Iſland.</hi>
+                     </p>
+                     <p>A very rare great <hi>Starre fiſh</hi> of <hi>India;</hi> this fiſh feedes on flat ſhell fiſhes, and his mouth is in the Center of his body.</p>
+                     <p>
+                        <pb n="21" facs="tcp:55468:12"/>A large <hi>Comett,</hi> or <hi>Sixfingers fiſh</hi> of <hi>In<g ref="char:EOLhyphen"/>dia,</hi> it is a ſpecies of Starre fiſh.</p>
+                     <p>A little <hi>Crowned Starre fiſh</hi> of the Coaſt of <hi>Denmarke.</hi>
+                     </p>
+                     <p>A little round boded <hi>Starre fiſh</hi> with long narrow feet or poynts.</p>
+                     <p>A Flat <hi>flowered Starre fiſh</hi> of the <hi>German</hi> Sea.</p>
+                     <p>A <hi>five pointed</hi> little <hi>Starre fiſh</hi> of the Coaſt of <hi>Holland.</hi>
+                     </p>
+                     <p>A little <hi>Starre fiſh</hi> with twelve points, ta<g ref="char:EOLhyphen"/>ken on the Coaſt of <hi>England.</hi>
+                     </p>
+                     <p>A prickled <hi>Crab</hi> called the <hi>Sea Spyder,</hi> which ha's little clawes on his feet, like birds clawes; It was given to the augmenting of theſe Rarities, by the Learned <hi>Petrus Ca<g ref="char:EOLhyphen"/>riſius,</hi> the King of <hi>Denmark's</hi> Reſident in the united <hi>Provinces.</hi>
+                     </p>
+                     <p>A <hi>King Crab</hi> of the <hi>Moluccos</hi> Iſland this creature has the eyes on his back, and is al<g ref="char:EOLhyphen"/>ſo called a <hi>Sea Spyder,</hi> for the reſemblance.</p>
+                     <p>A great <hi>Sea Crab.</hi>
+                     </p>
+                     <p>A <hi>Witland Crab;</hi> it is like a deaths head, and lives in the ground like Connies in a
+<pb n="22" facs="tcp:55468:13"/>
+burrow, in ſome Iſlands of the <hi>Weſt Indias.</hi>
+                     </p>
+                     <p>An other ſpecies of <hi>King Crab</hi> or <hi>Sea Spy<g ref="char:EOLhyphen"/>der,</hi> but as light as a ſheet of Paper, yet it is as big as an ordinary face.</p>
+                     <p>An <hi>Icus Marinus,</hi> that is called the <hi>Sea Orange.</hi>
+                     </p>
+                     <p>A <hi>Torpedo</hi> or Benumming fiſh, for it taketh away the ſenſe of feeling from the fiſher mans hands when he is in his Net. He is of <hi>Africa,</hi> and did belong to the King of <hi>France.</hi>
+                     </p>
+                     <p>A very perfect great and true <hi>Remora</hi> of <hi>India,</hi> whoſe property is to hinder or ſtay great ſhips as they ſwim; it hath on his head many open ſpaces out of which pro<g ref="char:EOLhyphen"/>ceeds a glutinous humour, with the which he ſticks ſo faſt to any ſmooth thing that a man cannot well loſen him.</p>
+                     <p>A ſtrange black <hi>Plaice,</hi> from the Sea of <hi>Denmark.</hi>
+                     </p>
+                     <p>A little prickled <hi>Globe Fiſh,</hi> alſo called the <hi>Sea Owle,</hi> for his forme.</p>
+                     <p>
+                        <pb n="23" facs="tcp:55468:13"/>An <hi>Hippocampus</hi> of the Mediterranean Sea; his belly is ſaid to be very venemous.</p>
+                     <p>An <hi>Hippocampus</hi> of <hi>Braſil,</hi> of an other ſort: for he has a little white horne under his head.</p>
+                     <p>A little <hi>Spouting</hi> or <hi>Fountain fiſh;</hi> for it ſticks to the Rocks, and when one will take him, he ſpouts the water in ones face.</p>
+                     <p>A ſtrange ſort of <hi>Oyſter,</hi> that is called the <hi>Sentry</hi> fiſh for his nature, for he is faſtened to the Rocks and moſt commonly ſtands open to catch fiſh; for as the fiſh thinks to eat him, he takes his enemy priſoner and then entertaines him as good meat.</p>
+                     <p>A <hi>Navell fiſh,</hi> a round ſlymy miſhapen thing, that ſticks to the Rocks, and con<g ref="char:EOLhyphen"/>tracts it ſelf in the ſhape of a Navell, and is a venemous creature.</p>
+                     <p>A true <hi>Purple-fiſh,</hi> that ſticks to the Rocks and is an inſect of the Sea compoſed of many hard ſhells layd over one another like the ſcales of wood-lice. I walking by the Sea ſide to ſearch after the ſecrets of Nature, found one of them in the <hi>West India:</hi> but
+<pb n="24" facs="tcp:55468:14"/>
+I wondred at the variety of colours where<g ref="char:EOLhyphen"/>with it ſtained my hand For, firſt it was green, then blew, afterwards, purple, and laſtly it became a beautifull Red; and taking my handkerchief to my hands it died the ſame likewiſe, and the colours remaine in the linnen not to be waſhed out.</p>
+                     <p>A <hi>Limpet,</hi> which ſticks alſo to the rocks, and is an Inſect of the Sea, having a flat ſhell, but the creature within is ſomething like a ſnaile, with little hornes and is very good meat.</p>
+                     <p>A <hi>Needle-fiſh,</hi> it is a ſmall little long fiſh of the forme of of a needle.</p>
+                     <p>A <hi>Sea Louſe,</hi> is alſo an inſect of the Sea in <hi>Greenland,</hi> and ſticks to the <hi>Whale,</hi> for food.</p>
+                     <p>Some <hi>Sea-fleas,</hi> when the ſea is at a low Ebbe, they are found by hundreds under ſome Rocks, and after ſtormes, on the ſands by the ſhore ſide.</p>
+                     <p>Some <hi>Sea-Scorpions;</hi> they are inſects of the Sea and have ſix feet like a Scorpion, and a long tayle.</p>
+                     <p>
+                        <pb n="25" facs="tcp:55468:14"/>Some <hi>Mint fiſhes,</hi> they are little round creatures, but when they are dry they are flat and mark'd like money.</p>
+                     <p>A <hi>Sea Eye,</hi> it is a ſpecies of the Mint fiſh, round and clear like Gelley, but venemous.</p>
+                     <p>A <hi>Paraquito fiſh</hi> of the <hi>Adriatic</hi> Sea; it is a little green fiſh like a Paraquito, but hath ſmall teeth afore like unto a Mouſes.</p>
+                     <p>A little <hi>Burre-fiſh,</hi> it is green and like a burre that ſticks to ones cloathes, it is one of the ſpecies of <hi>Icus Marinus.</hi>
+                     </p>
+                     <p>A little fiſh found in moariſh grounds in <hi>Swedland,</hi> it hath a little prickle on the back that is venemous.</p>
+                     <p>A little <hi>Sea Serpent,</hi> ſomething reſem<g ref="char:EOLhyphen"/>bling a <hi>Conger,</hi> but the head is bigger, for the proportion of its body.</p>
+                     <p>A Sea <hi>Inſect</hi> called the <hi>Sea-chairs;</hi> it hath many ſcales like a wood louſe, two long hornes, and a forked tayle.</p>
+                     <p>A Water <hi>Inſect</hi> called <hi>ſquilla Fluviatilis,</hi> or the water Cricket.</p>
+                     <p>
+                        <pb n="26" facs="tcp:55468:15"/>Alſo many hundred of very rare and beautifull fiſh ſhells all different in their formes, works, or colours, and other things belonging to <hi>Animals,</hi> in Cheſts and Boxes.</p>
+                     <p>Amongſt ſome of them a very rare Mo<g ref="char:EOLhyphen"/>ther of Pearle, or the Pearle oyſter, with an oriential Pearle in the midſt; and a Car<g ref="char:EOLhyphen"/>vall fiſh ſhell of the Red Sea, and two or three ſpecies of ſhells that grow contrary to the nature of all ſhells in general: for they grow towards the left hand. Another ſort called the <hi>Antipathio</hi> ſhell for the Center is on the bottome, and the other ſhells in gene<g ref="char:EOLhyphen"/>rall has the Center on the top.</p>
+                  </div>
+                  <div type="subsection">
+                     <head>Parts of FISHES.</head>
+                     <p>A Ribb of a <hi>Triton</hi> or <hi>Mereman,</hi> taken by Captain <hi>Finny,</hi> upon the ſhouts of <hi>Braſil,</hi> five hundred Leagues from the Maine; given by Doctor <hi>Eſgate</hi> Phyſitian.</p>
+                     <p>The Vein of the tongue of that <hi>Whale</hi> that was taken up at <hi>Greenwich,</hi> a little be<g ref="char:EOLhyphen"/>fore <hi>Cromwel</hi>'s death, it is like a vein ſtocke that is withered.</p>
+                     <p>A peece of the Skin of the Whale; the
+<pb n="27" facs="tcp:55468:15"/>
+pizzle eight or nine foot long, the Drum-<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>panne, a tooth, a finne of one of the Gills, ſome twelve foot long, and the bone that the Whale ſpouts the water out withall and a neck bone.</p>
+                     <p>The Tayle of a <hi>Sea Cat,</hi> or ſtingray, it will ſaw like an iron ſaw.</p>
+                     <p>A very great <hi>Saw,</hi> or Weapon of a <hi>Saw-fiſh.</hi>
+                     </p>
+                     <p>A Round flat bone of a fiſh like a pancake.</p>
+                     <p>An Extraordinary great <hi>Lobſters</hi> Claw.</p>
+                     <p>A Great Jawe of a large <hi>Tabourein,</hi> it is a Species of <hi>Sharke,</hi> and hath four or five tyre or rows of teeth, it was ſent the Maſter of theſe Rarities from the Weſt <hi>Jndia.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div n="5" type="section">
+                  <head>
+                     <hi>V.</hi> SERPENTS, &amp;c.</head>
+                  <p>A <hi>Serpent</hi> above twenty foot long of the <hi>East India,</hi> it hath in the upper chap four rowes of teeth; this Serpent when he
+<pb n="28" facs="tcp:55468:16"/>
+was living, could ſwallow men or beaſts.</p>
+                  <p>A long Narrow <hi>Serpent</hi> like a peece of narrow hair-coloured Satten edged with white Satten.</p>
+                  <p>A Beautifull <hi>Serpent</hi> called <hi>Ibaboca</hi> of <hi>Braſil,</hi> ſome ten or twelve foot long.</p>
+                  <p>A Spotted <hi>Serpent</hi> of the <hi>Iſland Jamaica;</hi> this, with the three following Serpents was given to the increaſe of theſe Rarities, by worthy Mr. <hi>Powey</hi> one of the <hi>Royal Society</hi> of Philoſophers, and Treaſurer to his high<g ref="char:EOLhyphen"/>neſſe the <hi>Duke</hi> of <hi>Yorke.</hi>
+                  </p>
+                  <p>A <hi>Gray Coloured Serpent,</hi> this Serpent being held before the light, the skin ap<g ref="char:EOLhyphen"/>pears like Net-work.</p>
+                  <p>A <hi>Gold Coloured Serpent,</hi> for this Ser<g ref="char:EOLhyphen"/>pent skin is like cloth of Gold.</p>
+                  <p>An other <hi>Serpent</hi> of <hi>India</hi> like Cloth of <hi>Silver,</hi> with black ſpotts.</p>
+                  <p>A <hi>Black Serpent</hi> of <hi>Virginia,</hi> it is eaten for good meat.</p>
+                  <p>
+                     <pb n="29" facs="tcp:55468:16"/>A <hi>Boitininga,</hi> or <hi>Rattle Snake;</hi> Nature has formed him with a rattle at his tayle that men might avoyd the danger of his biting; for being once bittten by him, a Man dyes in halfe an houre unleſſe he hath of the rat<g ref="char:EOLhyphen"/>tle ſnake roote, for to apply alittle of it to the offended place, and by eating a little of it alſo; therefore the Savages of <hi>Virginia</hi> ſeldom travel without it.</p>
+                  <p>A <hi>Viper</hi> of <hi>Italy.</hi>
+                  </p>
+                  <p>A <hi>Viper</hi> of <hi>Germany.</hi>
+                  </p>
+                  <p>An <hi>Adder</hi> of <hi>England.</hi>
+                  </p>
+                  <p>A little <hi>Serpent</hi> of <hi>Germany.</hi>
+                  </p>
+                  <p>A <hi>Slow-Worme</hi> of <hi>Heſſen.</hi>
+                  </p>
+                  <p>An other coloured little <hi>Serpent.</hi>
+                  </p>
+                  <p>An <hi>Aſpe.</hi>
+                  </p>
+                  <p>A great <hi>Tatoo</hi> or <hi>Armadillo</hi> of the Duke of <hi>Orleans;</hi> it lives under ground like a Mole, and is as big as a pretty big dog; it is a great Rarity in the Eaſt <hi>India,</hi> and a no<g ref="char:EOLhyphen"/>ble preſent of ſo great a Prince.</p>
+                  <p>
+                     <pb n="30" facs="tcp:55468:17"/>An <hi>Armadillo</hi> of the <hi>Weſt India</hi> that is e<g ref="char:EOLhyphen"/>ſteemed good meat there.</p>
+                  <p>An other ſort of <hi>Armadillo</hi> of the <hi>Eaſt India</hi> that was preſented King <hi>James</hi> for a Rarety.</p>
+                  <p>A great <hi>Crocodile,</hi> given by Noble <hi>Squire Courtine,</hi> a lover of vertue and ingenuity.</p>
+                  <p>A little Spotted <hi>Crocidile</hi> of <hi>Egypt.</hi>
+                  </p>
+                  <p>A very litle <hi>Crocodile,</hi> as it firſt came out of his egge.</p>
+                  <p>A little <hi>Aligater</hi> of <hi>Braſil,</hi> it is a ſpecies of <hi>Crocodile.</hi>
+                  </p>
+                  <p>A great <hi>Lizzard</hi> of <hi>Africa,</hi> that is ſaid to be ſo loving to Man, that if the Man be a ſleep and in danger of ſome other creature, he will then awake him.</p>
+                  <p>A great Spotted <hi>Lizzard</hi> skin, that his Highneſſe the <hi>Landgrave</hi> of <hi>Heſſen</hi> gave as a Rarity.</p>
+                  <p>An other ſpecies of <hi>Lizard</hi> of <hi>Numidia,</hi> or of <hi>Arabia,</hi> it is called by ſome the land <hi>Crocodile.</hi>
+                  </p>
+                  <p>
+                     <pb n="31" facs="tcp:55468:17"/>A <hi>B<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>gelugey,</hi> it is a creature of ſome parts of <hi>Africa,</hi> a kind of Lizard, that hath great ſcales like a fiſh.</p>
+                  <p>A <hi>C<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on</hi> of <hi>Barbary;</hi> it is ſaid to live only by the air, but it is not ſo, for he lives by ſlyes and, yet he can live long with<g ref="char:EOLhyphen"/>out food, his skin being ſo nervous, and very little porous.</p>
+                  <p>A True <hi>Salamander,</hi> is ſaid to live in the fire, as has been too often reported, but will live longer in the fire then any living creature of his bigneſſe, for the matter or moiſture that proceeds from him condenſes and ſo ſmothereth the fire, as milk or glew doth.</p>
+                  <p>A <hi>Guaena</hi> of <hi>America,</hi> it is a ſort of Lizard as big as a good Rabett, but in thoſe parts held for better meat; it lives by the fruits of trees, and is ſo harmeleſſe that one may take him by the tayle as he is on a tree.</p>
+                  <p>A Black land <hi>Tortoiſe</hi> full of little yellow ſpeeks, ſuch as thoſe in <hi>Germany</hi> or <hi>Greece.</hi>
+                  </p>
+                  <p>A little land <hi>Tortoiſe</hi> of <hi>Canada</hi> with many other different land Tortoiſes out of the
+<pb n="32" facs="tcp:55468:18"/>
+Eaſt and Weſt <hi>Indies,</hi> they are all generally good meat.</p>
+                  <p>A fair <hi>Sincus Terrestris</hi> of <hi>Egypt,</hi> it hath four feet like a Lizard, but reſembles a fiſh, though it be a land creature; it is ſaid that one part of his body is cooling; but the o<g ref="char:EOLhyphen"/>ther part is provocative to man or woman.</p>
+                  <p>A Coale Black <hi>Toade.</hi>
+                  </p>
+                  <p>
+                     <hi>Frogs</hi> with two feet and a tayle.</p>
+                  <p>
+                     <hi>Frogs</hi> with foure feet and a tayle.</p>
+                  <p>Two fortes of <hi>Scorpions.</hi>
+                  </p>
+               </div>
+               <div n="6" type="section">
+                  <head>
+                     <hi>VI.</hi> Inſects or FLIES.</head>
+                  <p>A <hi>Flie</hi> bigger then a Sparrow, called the bill-<hi>Scarabeus.</hi>
+                  </p>
+                  <p>A rare great Flie called the <hi>Salamander</hi> Flie for his colours, and that it is like to wrought velvet.</p>
+                  <p>A great <hi>Scarabeus</hi> of the <hi>Amazones,</hi> very entire, and of beautifull colours.</p>
+                  <p>
+                     <pb n="33" facs="tcp:55468:18"/>A <hi>Lanterne Flie</hi> of <hi>Peru;</hi> two or three of theſe Flies faſtened to a ſtick, give light to thoſe that travel in the Countrey.</p>
+                  <p>A Black <hi>Elephant Flie,</hi> for his forme.</p>
+                  <p>A <hi>Buck Flie,</hi> for his hornes.</p>
+                  <p>A <hi>Leopard Flie,</hi> for the colours of his ſpots on his body.</p>
+                  <p>A <hi>Parret-Flie,</hi> for his ſhape and for his rare changeable colours.</p>
+                  <p>A <hi>Mole Flie,</hi> for his feet and for his ſilken hairy downe.</p>
+                  <p>A Rich Coloured great <hi>Cantharides</hi> of the Eaſt <hi>Indies.</hi>
+                  </p>
+                  <p>An <hi>Emerauld Flie</hi> ſo called for his rare glittering green colour.</p>
+                  <p>A <hi>Saphir Flie</hi> ſo called for his bright ſhi<g ref="char:EOLhyphen"/>ning blew colour.</p>
+                  <p>A <hi>Musk Flie,</hi> it is called ſo for his Odo<g ref="char:EOLhyphen"/>tiferous ſent when he is alive.</p>
+                  <p>
+                     <pb n="34" facs="tcp:55468:19"/>A Weſt <hi>India Cacaorche.</hi> An Inſect ſome thing broad, but can inſinuate himſelf in the leaſt chinck of a cheſt to the great of<g ref="char:EOLhyphen"/>fence of men by ſpoiling of leather or wool<g ref="char:EOLhyphen"/>len.</p>
+                  <p>A little broune <hi>Scarabeus</hi> of Eaſt <hi>Indies.</hi>
+                  </p>
+                  <p>A Rare <hi>Dragon-Flie.</hi>
+                  </p>
+                  <p>A Rare <hi>Butter-Flie</hi> of <hi>Germany.</hi>
+                  </p>
+                  <p>A Rare <hi>Butter-Flie</hi> of <hi>Swedland,</hi> with ſeveral hundreds of other rare inſects and Flies, all different one from another, ei<g ref="char:EOLhyphen"/>ther in ſhape, or colours.</p>
+               </div>
+            </div>
+            <div n="2" type="part">
+               <pb n="35" facs="tcp:55468:19"/>
+               <head>THE SECOND PART OF THE CATALOGUE.</head>
+               <div n="1" type="section">
+                  <head>
+                     <hi>I.</hi> VEGETABLES.</head>
+                  <p>A <hi>Sticke</hi> that is grown hollow like a nett; it was Prince <hi>Maurice</hi> of <hi>Naſſaw's</hi> Rarity, that he brought out of <hi>Braſil.</hi>
+                  </p>
+                  <p>A <hi>Stick</hi> that is grown like a knott, and is a pipe to play on.</p>
+                  <p>A <hi>Stick</hi> like a Croſſe.</p>
+                  <p>A <hi>Stick</hi> like St. <hi>Andrew's</hi> Croſſe.</p>
+                  <p>
+                     <pb n="36" facs="tcp:55468:20"/>A <hi>Stick</hi> like a Serpent.</p>
+                  <p>A <hi>Stick</hi> or peice of wood grown like the <hi>ſecret parts</hi> of a man.</p>
+                  <p>An other <hi>Stick</hi> or peece of wood grown as the above mentioned.</p>
+                  <p>A <hi>Stick</hi> with two branches grown toge<g ref="char:EOLhyphen"/>ther; it was a Rarity of the <hi>Marqueſſe</hi> of <hi>Badon.</hi>
+                  </p>
+                  <p>A Natural <hi>Bruſh</hi> or broom of <hi>India.</hi>
+                  </p>
+                  <p>A <hi>Bagge</hi> grown on a tree like woven ſtuffe, as tiffeny or Cobweblawn of <hi>India.</hi>
+                  </p>
+                  <p>A <hi>Bloſſome</hi> of a <hi>Suggar</hi> Cane.</p>
+                  <p>A Branch of a <hi>Palme</hi> tree of the <hi>Jew land.</hi>
+                  </p>
+                  <p>A great <hi>Codde</hi> or Bloſſome of another ſpecies of <hi>Palme</hi> of the Weſt <hi>India.</hi>
+                  </p>
+                  <p>A Right <hi>Cedar</hi> fruit, with a peece of the branch of one of the Cedars of Mount <hi>Li<g ref="char:EOLhyphen"/>banon.</hi>
+                  </p>
+                  <p>An Eare of <hi>Corne</hi> or <hi>Mace</hi> of <hi>Virginia,</hi>
+                     <pb n="37" facs="tcp:55468:20"/>
+whereof one graine produces hundreds.</p>
+                  <p>An Eare of a ſtrange <hi>Corne</hi> in a Countrey in <hi>Affrica,</hi> whereof one grain produces more then a thouſand.</p>
+                  <p>A great <hi>Bloſſome</hi> of the Fox-tayle-plant, of St. <hi>Thomas de Lovando</hi> in <hi>Affrica.</hi>
+                  </p>
+                  <p>A <hi>Limon,</hi> that repreſents both the ſe<g ref="char:EOLhyphen"/>cret parts of an <hi>Hermapherodite.</hi>
+                  </p>
+                  <p>A <hi>Roſe</hi> of <hi>Jerico,</hi> that is an hundred years old, and yet can open ſo wide, that it can<g ref="char:EOLhyphen"/>not well be put in ones hat, and the next day will be cloſed leſſe then ones fiſt.</p>
+                  <p>An <hi>Excreſcence,</hi> or plant like a Rubbing bruſh.</p>
+                  <p>A <hi>Fruit</hi> of <hi>Braſil,</hi> that growes with a cover; it is called the <hi>Apes Nutt,</hi> becauſe when the fruit is ripe, the Apes open it, to eate the many kernells that are in it; the fruit is thick, hard and very heavy and growes naturally with a cover, therefore it is alſo called the <hi>cover'd</hi> fruit.</p>
+                  <p>A great <hi>Maraca,</hi> a fruit of <hi>India,</hi> that
+<pb n="38" facs="tcp:55468:21"/>
+hath an hard ſhell like a Nutt, but as big as a mans head, it is like the ſcull of a man with the <hi>Sutures.</hi>
+                  </p>
+                  <p>An other ſort of <hi>Maraca,</hi> that growes on a high tree, but one cannot well climb on it, becauſe the branches are ſo ſmall and ſo full of prickles, but that does not hinder the ratts from being lickoriſh of them: for if that fruit or Nut falls they make a hole to eat what is in it, and the <hi>Sa<g ref="char:EOLhyphen"/>vages</hi> make a ſtrong drink of the ſap with<g ref="char:EOLhyphen"/>in, but of the ſhells they make their neceſ<g ref="char:EOLhyphen"/>ſary houſehold ſtuffe, as Cuppes, Spoones, Diſhes and the like.</p>
+                  <p>A <hi>Ganobany</hi> fruit of <hi>Guiney.</hi>
+                  </p>
+                  <p>A <hi>Bacbob</hi> or great <hi>Ganobany</hi> given by the King of <hi>Sweds</hi> Phyſician; this fruit is great and heavy, and on the out ſide it is like vel<g ref="char:EOLhyphen"/>vet.</p>
+                  <p>A great <hi>Gourd</hi> in the forme of a Pear.</p>
+                  <p>A <hi>Red Gourd</hi> of <hi>Guiney.</hi>
+                  </p>
+                  <p>An other pretty ſhap't <hi>Gourd.</hi>
+                  </p>
+                  <p>
+                     <pb n="39" facs="tcp:55468:21"/>A <hi>Tomarus</hi> fruit of <hi>Binney.</hi>
+                  </p>
+                  <p>A little double <hi>Pine-apple.</hi>
+                  </p>
+                  <p>A <hi>Cocos</hi> fruit whole; the fruit and tree, afford many neceſſary things for the benefit of man, as Milke, Wine, Water, Oyle, Vineger, Needles, Thread, Boards, Cor<g ref="char:EOLhyphen"/>dage, ſayles, and other things.</p>
+                  <p>A <hi>Cocos Nut</hi> ſomething round, repreſen<g ref="char:EOLhyphen"/>ting a face.</p>
+                  <p>A long <hi>Cocos Nut</hi> ſomething like a fiſh in ſhape.</p>
+                  <p>A <hi>Prickle-Apple</hi> of <hi>India.</hi>
+                  </p>
+                  <p>A large <hi>Carab;</hi> it is a fruit that growes on a high tree in the <hi>Caribeis;</hi> the ſhell of it burnt, caſts a ſent like perfume, and the in<g ref="char:EOLhyphen"/>ward part taſts like dry ſpic'd bread.</p>
+                  <p>A <hi>Loafe</hi> of <hi>Bread</hi> made of the <hi>Caſſado-Rotte;</hi> the ſap or moiſture of that root is deadly poyſon, yet it makes good bread, for the fire evaporates the malignant nature of it.</p>
+                  <p>
+                     <pb n="40" facs="tcp:55468:22"/>A <hi>Silke Cotton Codd,</hi> ſuch as in <hi>China,</hi> they make their fine paper of it.</p>
+                  <p>An other Species of <hi>Cotton</hi> in a Codd of the Weſt <hi>Indies.</hi>
+                  </p>
+                  <p>A <hi>Stinging</hi> long <hi>Beane</hi> of <hi>Braſile.</hi>
+                  </p>
+                  <p>A <hi>Fruit</hi> or great <hi>Beane</hi> like the heart of a Sheepe.</p>
+                  <p>A long <hi>Caſſia</hi> fruit of <hi>Egypt.</hi>
+                  </p>
+                  <p>A <hi>Fruit</hi> called the <hi>May-cock;</hi> it is com<g ref="char:EOLhyphen"/>mon in <hi>Virginia,</hi> and the outward part of it is meat there, and not the inward.</p>
+                  <p>A Bunch of <hi>Ethiopian Pepper.</hi>
+                  </p>
+                  <p>A ſquare thing made of the <hi>Cocos</hi> Barke, to cover the ſecret parts of Men or Women, and it is alſo in that Countrey their ready mony.</p>
+                  <p>A <hi>Purſe</hi> woven without a ſeame of the <hi>Co<g ref="char:EOLhyphen"/>cos</hi> fruit.</p>
+                  <p>A Peece of <hi>Wood</hi> that turneth water into two colours at once.</p>
+                  <p>
+                     <pb n="41" facs="tcp:55468:22"/>A peece of <hi>Wood,</hi> and part ſtone toge<g ref="char:EOLhyphen"/>ther; His Majeſty King <hi>Charles</hi> the <hi>firſt</hi> did try it, and gave it to the owner of theſe Rarities.</p>
+                  <p>Two very perfect <hi>Mandrakes,</hi> the one <hi>Male,</hi> and the other <hi>Female;</hi> both of them did grow in <hi>Africa;</hi> they are eſteem<g ref="char:EOLhyphen"/>ed of Women in thoſe parts, and are found by accident in the feilds by a red flower that the root bears and a long ſtalk, when it is in perfection.</p>
+                  <p>A Fruit called <hi>Genipapa,</hi> it is of the forme of a Limon, but of ſtrange operation, for the juice is as cleere as water; but a little of it put on ones hand dyeth it of a purple co<g ref="char:EOLhyphen"/>lour; but to redouble it with more of the ſame liquour, it makes the place as black as Jett and no art of man can fetch it out, but it will grow out of it ſelf in nine dayes; and if the hogs eat of it, it doth not endanger them, but makes their fat of a purple co<g ref="char:EOLhyphen"/>lour.</p>
+               </div>
+               <div n="2" type="section">
+                  <pb n="42" facs="tcp:55468:23"/>
+                  <head>
+                     <hi>II.</hi> Sea PLANTS, &amp;c.</head>
+                  <p>A Very fair <hi>purple Sea Feather.</hi>
+                  </p>
+                  <p>A large <hi>gray</hi> coloured <hi>Sea Feather.</hi>
+                  </p>
+                  <p>A fine <hi>Limon coloured Sea Fann.</hi>
+                  </p>
+                  <p>A <hi>Deep yellow</hi> colour'd <hi>Sea Fann</hi> grown to a great pibble-ſtone.</p>
+                  <p>An <hi>Iron-coloured Sea Fann,</hi> as ſtiffe as Iron wire.</p>
+                  <p>A Plant or little Tree of <hi>Black Horne;</hi> for the branches being burnt, they ſtink and wrinkle like horne; and being put in warm water become very ſoft; but the root or lower part is hard white ſtone.</p>
+                  <p>A very great <hi>Trumpet</hi> plant, that growes in the bottom of the <hi>Indian</hi> Sea, and they make trumpets of it in thoſe parts.</p>
+                  <p>A <hi>Purple Sea Plant,</hi> given by Dr. <hi>Towers</hi> of <hi>Hamburgh.</hi>
+                  </p>
+                  <p>
+                     <pb n="43" facs="tcp:55468:23"/>A very rare <hi>Sea Plant</hi> of two colours.</p>
+                  <p>A fine <hi>Yellow Sea Plant</hi> like a branch of ſmall Birch.</p>
+                  <p>A <hi>Plant</hi> of the Sea, a <hi>Rock,</hi> and a <hi>Shell</hi> faſtned or grown all together.</p>
+                  <p>A <hi>Sea Plant</hi> like <hi>Heath.</hi>
+                  </p>
+                  <p>A <hi>Sea Plant</hi> like the haire of ones heard.</p>
+                  <p>A <hi>Black Sponge,</hi> grown in branches like a Tree on a Rock; it is a very fine Rarity.</p>
+                  <p>A very rare <hi>Sea Plant</hi> or Shrubb, with ſhell fiſhes, growne, like fruits on a tree; it is eſteemed rare and ſtrange.</p>
+                  <p>A <hi>Sea Plant</hi> grown on a white <hi>Corall.</hi>
+                  </p>
+                  <p>A Strange <hi>Sea Plant</hi> call'd the <hi>tranſparent Corall;</hi> it is of the Colour of Glue.</p>
+                  <p>A Branch of the <hi>Solid white Corall.</hi>
+                  </p>
+                  <p>A Tree of <hi>Rough white Corall,</hi> alſo called the <hi>buſh</hi> corall, it is perfect and rare.</p>
+                  <p>
+                     <pb n="44" facs="tcp:55468:24"/>A <hi>White Corall</hi> with little double ſhell fiſhes, that grew in each part of it; it is a Rarity that was much eſteemed of the Em<g ref="char:EOLhyphen"/>perour in his room of Rarities.</p>
+                  <p>A red <hi>Corall</hi> on the Rock as it did grow.</p>
+                  <p>A <hi>white Corall</hi> grown on a Plant.</p>
+                  <p>A perfect <hi>white Corall</hi> called <hi>Harts horne</hi> Corall.</p>
+                  <p>A branch of ſoft <hi>Yellowiſh Corall.</hi>
+                  </p>
+                  <p>A branch of <hi>black</hi> and <hi>white Corall,</hi> called Joynt Corall.</p>
+                  <p>A peece of <hi>Red Corall</hi> grown on a ſhell together.</p>
+                  <p>A peece of Red and white <hi>Corall</hi> grown together.</p>
+                  <p>A great round <hi>Sea Stone</hi> like a great mouſhroome or toadeſtoole.</p>
+                  <p>A rare <hi>Concretion</hi> of the Sea with ſeveral ſorts of ſhells together.</p>
+                  <p>
+                     <pb n="45" facs="tcp:55468:24"/>A <hi>Concretion</hi> of <hi>Muſſells</hi> together.</p>
+                  <p>A <hi>Concretion</hi> of <hi>Stones</hi> and <hi>Iron</hi> together.</p>
+                  <p>A <hi>Stone</hi> found in the bottome of the Sea in the forme of an <hi>humane face.</hi>
+                  </p>
+                  <p>Some of the right <hi>Alcionum</hi> of the red Sea, by which the water of the Sea appears red in the ſhallow parts of it where that is found.</p>
+                  <p>Over and above theſe things mentioned, there are in ſeveral cheſts and boxes, many hundreds of ſtones of the Sea, plants of the Sea, with Corall and Coralins, and Alcio<g ref="char:EOLhyphen"/>nums, Concretions of things of a different nature, and ſuch like, which are omitted for brevity ſake: but upon further encourage<g ref="char:EOLhyphen"/>ment may be declar'd in time.</p>
+               </div>
+               <div n="3" type="section">
+                  <head>
+                     <hi>III.</hi> MINERALS, Stones of ſtrange ſhape, and things turned into Stones, with Chryſtals and precious Stones.</head>
+                  <p>AN <hi>Hungarian</hi> Rock of <hi>vitriol,</hi> in the ſhape of a mans viſage.</p>
+                  <p>
+                     <pb n="46" facs="tcp:55468:25"/>A <hi>Rock</hi> of <hi>Copper</hi> and <hi>Cryſtall</hi> together.</p>
+                  <p>A <hi>Rock</hi> of a kinde of <hi>Emerauld</hi> and <hi>Ame<g ref="char:EOLhyphen"/>thiſt</hi> together.</p>
+                  <p>A <hi>Rock</hi> glittering like <hi>Silver.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> of <hi>Portugal</hi> of a ſtrange forme.</p>
+                  <p>A <hi>Rock</hi> with <hi>Muſcle ſhells.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> like a bunch of grapes of the Car<g ref="char:EOLhyphen"/>dinal <hi>Richelieu.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> with whole flat ſhells of a Moun<g ref="char:EOLhyphen"/>tain in <hi>Germany.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> of a Quarry of ſtone near to the City of <hi>Franckfurd.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> like a great peece of <hi>wax,</hi> or <hi>roſin.</hi>
+                  </p>
+                  <p>A <hi>Rock</hi> of <hi>Moſſe</hi> in ſtone belonging to the Emperour <hi>Ferdinand</hi> the third.</p>
+                  <p>A <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ak<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> in ſtone, a Rarity that was eſteem<g ref="char:EOLhyphen"/>ed very much by divers perſons beyond Seas.</p>
+                  <p>
+                     <pb n="47" facs="tcp:55468:25"/>A Stone, like the bottom ſhell of a great <hi>Oyſter,</hi> but never was one.</p>
+                  <p>A peece of old <hi>wood</hi> turned to ſtone, yet reſerving the colour.</p>
+                  <p>A peece of old worme-eaten <hi>barke</hi> of a tree in <hi>Stone.</hi>
+                  </p>
+                  <p>A peece of old <hi>Birch</hi>-wood, that appears to have been chapt off at both ends, turned into ſtone, yet reſerves the true reſem<g ref="char:EOLhyphen"/>blance and colour of the perfect wood.</p>
+                  <p>A peece of <hi>Oaken Wood</hi> turned into Jaſper, it is poliſhed on the one ſide, that the grain of the Wood may appear, and was ſawed off from a peece of Wood like a billet, that a Cardinal had in <hi>Rome,</hi> for a great Rarity.</p>
+                  <p>A Right <hi>Eagle Stone,</hi> it is a true <hi>Calcedo<g ref="char:EOLhyphen"/>nyan</hi> ſtone, but like a lump of Gumme <hi>Tra<g ref="char:EOLhyphen"/>gacant;</hi> it was the Kings of <hi>Marrocco,</hi> it is a precious ſtone that is very Rare: for that King permits none in his countrey to have any of them but himſelf, as a token of his royalty, but yet gives them to eminent per<g ref="char:EOLhyphen"/>ſons, as a mark of his great favour.</p>
+                  <p>
+                     <pb n="48" facs="tcp:55468:26"/>A great <hi>Lapis Ammonis,</hi> that did belong to the King of <hi>France.</hi>
+                  </p>
+                  <p>An other great <hi>Lapis Ammonis,</hi> coale black.</p>
+                  <p>A <hi>Yellow</hi> ſtone like <hi>Wax,</hi> that has on it the repreſentation of a vine leaf or flower; it is of a glittering ſubſtance.</p>
+                  <p>A great <hi>Triangular</hi> Stone, that hath a re<g ref="char:EOLhyphen"/>preſentation of trees and buſhes.</p>
+                  <p>A great <hi>Jaſper</hi> ſtone in a frame, it doth repreſent a mooriſh ground with rivers, trees and buſhes.</p>
+                  <p>An Extraordinary rare <hi>Calcedonian</hi> ſtone in a frame, it is like a peece of Ice on the ground.</p>
+                  <p>A <hi>Marble</hi> ſtone of the river <hi>Arno</hi> in a frame, the Emperour <hi>Ferdinand</hi> the third confeſſed he never ſaw a rarer: for it doth repreſent a bridge and an old ruinous tower, a tree with the bark, and birds flying in the Air, it was the great Duke of <hi>Florences</hi> Ra<g ref="char:EOLhyphen"/>rity.</p>
+                  <p>
+                     <pb n="49" facs="tcp:55468:26"/>Another ſtone picture like an arme of the Sea, with Cottages and a Church by the waterſide.</p>
+                  <p>A very rare Stone picture repreſenting clowdy skyes, and an excellent rocky Cave Given by the Earl of <hi>Pembrock.</hi>
+                  </p>
+                  <p>An other very fine ſtone picture like a rui<g ref="char:EOLhyphen"/>nous town on a hill.</p>
+                  <p>An other ſtone of the ſame Nature in a frame.</p>
+                  <p>A very rare ſtone picture like a City all on fire. The Maſter of theſe Rarities, had it as a rare thing from the Prince Elector of <hi>Cullens</hi> hands.</p>
+                  <p>A white ſtone that does repreſent a tree, as if it was made by art with a pen.</p>
+                  <p>Another very rare white Stone that does repreſent two or three trees alſo as if they were drawn with a pen.</p>
+                  <p>A large peece of <hi>Ice glaſſe,</hi> but it is ſome<g ref="char:EOLhyphen"/>thing brittle, and is a kinde of <hi>Gipſum.</hi>
+                  </p>
+                  <p>
+                     <pb n="50" facs="tcp:55468:27"/>A peece of <hi>Cryſtal,</hi> like a town built on a hill, it is much eſteemed by ingenious ſpirits.</p>
+                  <p>A nother peece of <hi>Crystal</hi> very clear and rare, that hath in the midſt a repreſentati<g ref="char:EOLhyphen"/>on of a moſſey figure or ſtatiew, with the likneſſe of 2 hornes on the head; all this repreſentation is but one, yet it appears to be 3 or 4 by the reflections of the ſame na<g ref="char:EOLhyphen"/>tural Cryſtal.</p>
+                  <p>A peece of <hi>European Cryſtal,</hi> very clear.</p>
+                  <p>A peece of Eaſt <hi>India Cryſtal.</hi>
+                  </p>
+                  <p>A peece of Weſt <hi>India Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>Yellow Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>Sea-green Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>blewiſh Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>buſh Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>wave Cryſtal.</hi>
+                  </p>
+                  <p>A peece of <hi>friſled Cryſtal.</hi>
+                  </p>
+                  <p>
+                     <pb n="51" facs="tcp:55468:27"/>And divers other ſorts or ſpecies of <hi>Chry<g ref="char:EOLhyphen"/>ſtals,</hi> that are not nominated for brevity ſake.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>IV. <hi>METTALS, MINERALS,</hi> &amp;c.</head>
+                  <p>SEveral ſorts of <hi>Iron</hi> Ore.</p>
+                  <p>Several <hi>Lead</hi> Ores.</p>
+                  <p>Several <hi>Tinne</hi> Ores.</p>
+                  <p>Several <hi>Copper</hi> Ores.</p>
+                  <p>Several <hi>Silver</hi> Ores.</p>
+                  <p>Several <hi>Gold</hi> Ores.</p>
+                  <p>Beſides <hi>Mettals,</hi> and <hi>Minerals</hi> growing ſomething rare, as <hi>Lead</hi> and <hi>Crystal</hi> toge<g ref="char:EOLhyphen"/>ther.</p>
+                  <p>
+                     <hi>Tinne</hi> and <hi>Cryſtal</hi> together.</p>
+                  <p>
+                     <hi>Iron</hi> and <hi>Criſtal</hi> together.</p>
+                  <p>
+                     <pb n="52" facs="tcp:55468:28"/>
+                     <hi>Copper</hi> and <hi>Cryſtal</hi> together.</p>
+                  <p>
+                     <hi>Silver</hi> and <hi>Crystal</hi> together.</p>
+                  <p>
+                     <hi>Gold</hi> in the midſt of a <hi>white ſtone.</hi>
+                  </p>
+                  <p>An Iron <hi>Bullet</hi> in the midſt of a Stone.</p>
+                  <p>A <hi>Touch ſtone,</hi> and a Metalline ſubſtance on the other ſide like <hi>Copper.</hi>
+                  </p>
+                  <p>A very ſtrange kind of <hi>Mineral,</hi> held to be <hi>Quickſilver,</hi> that is fixed in his mine; for being burnt it evaporates its ſelf into a ſtinking vapour like to Quickſilver, it is ſomething rare; for the Maſter of theſe Ra<g ref="char:EOLhyphen"/>rities, in his travells never ſaw more then two peeces, and this was one of them.</p>
+                  <p>A <hi>Flint</hi> and <hi>Copper</hi> grown together.</p>
+                  <p>Several ſorts of <hi>Talkes.</hi>
+                  </p>
+                  <p>Several ſorts of <hi>Sulphur.</hi>
+                  </p>
+                  <p>Several ſorts of <hi>Earths</hi> out of <hi>Mines.</hi>
+                  </p>
+                  <p>Several ſorts of other Minerals as <hi>Cinaba<g ref="char:EOLhyphen"/>ris, Antimonium, Saffor, Murienum, Flores Martis,</hi> and divers other Metals and Mine<g ref="char:EOLhyphen"/>rals and the like.</p>
+                  <list>
+                     <head>Precious STONES.</head>
+                     <item>
+                        <hi>Amethiſt</hi> in the Mine.</item>
+                     <item>
+                        <pb n="53" facs="tcp:55468:28"/>
+                        <hi>Granates</hi> in the Mine.</item>
+                     <item>A ſort of rich <hi>Diamond</hi> in the Mine.</item>
+                     <item>
+                        <hi>Chryſolits</hi> in the Mine.</item>
+                     <item>
+                        <hi>Jaſper</hi> from the Mine.</item>
+                     <item>
+                        <hi>Lapis Lazuli</hi> from the Mine.</item>
+                     <item>
+                        <hi>Malaguita</hi> from the Mine.</item>
+                     <item>
+                        <hi>Turkeiſe</hi> from the Mine.</item>
+                     <item>
+                        <hi>Rubies</hi> from the Mine.</item>
+                     <item>
+                        <hi>Vermilions</hi> from the Mine.</item>
+                     <item>
+                        <hi>Emerauld</hi> from the Mine.</item>
+                     <item>
+                        <hi>Hyacinths</hi> from the Mine.</item>
+                  </list>
+                  <p>And divers other ſorts of precious ſtones and different ſorts of Pearls, for their co<g ref="char:EOLhyphen"/>lours and ſhapes, with ſeveral <hi>Toad ſtones</hi> and <hi>Eagle ſtones</hi> and ſuch like.</p>
+                  <p>A <hi>Bohemian Topaz,</hi> on a rich pedeſtal of <hi>Ebony.</hi>
+                  </p>
+                  <p>
+                     <pb n="54" facs="tcp:55468:29"/>An other rare <hi>Topaz,</hi> that hath in it a re<g ref="char:EOLhyphen"/>preſentation of a forreſt, or buſhy-hills.</p>
+                  <p>A peece of <hi>Ambar,</hi> that hath in it a repre<g ref="char:EOLhyphen"/>ſentation of a riſing vapour or Cloud.</p>
+                  <p>Divers other peeces of tranſparent Am<g ref="char:EOLhyphen"/>ber, that have all ſomething or other in them, as Flies, Spyders, Ants or the like.</p>
+                  <div type="subsection">
+                     <head>Divers Stones of strange ſhapes and regular formes.</head>
+                     <p>Several <hi>Lapides Ammonis,</hi> or ſtones like Serpents.</p>
+                     <p>Several <hi>Gloſopetrat,</hi> or Tongue ſtones.</p>
+                     <p>Several ſtones like unto <hi>Cloak buttons.</hi>
+                     </p>
+                     <p>Several <hi>Lapides Lincei.</hi>
+                     </p>
+                     <p>Several <hi>Lapides Judaici.</hi>
+                     </p>
+                     <p>
+                        <hi>Lapis Hamatites</hi> of <hi>Numidia.</hi>
+                     </p>
+                     <p>
+                        <hi>Lapis Nephriticus</hi> of <hi>India.</hi>
+                     </p>
+                     <p>Stones like <hi>Caps.</hi>
+                     </p>
+                     <p>Stones like <hi>Hearts.</hi>
+                     </p>
+                     <p>Stones like <hi>Starres.</hi>
+                     </p>
+                     <p>
+                        <pb n="55" facs="tcp:55468:29"/>Stones like <hi>Wheeles</hi> of Watches.</p>
+                     <p>Stones like little <hi>Pillars.</hi>
+                     </p>
+                     <p>Stones like <hi>Croſſes.</hi>
+                     </p>
+                     <p>Stones like <hi>Screws.</hi>
+                     </p>
+                     <p>Stones like <hi>Peaſe.</hi>
+                     </p>
+                     <p>Stones like <hi>Darts-heads.</hi>
+                     </p>
+                     <p>Stones ſquare like <hi>Dice.</hi>
+                     </p>
+                     <p>Stones in ſhape like <hi>Tobaco</hi> rowls.</p>
+                     <p>Stones with well formed impreſſions.</p>
+                     <p>A Stone that is hollow and does appear as if it had a hole quite thorough but it has not.</p>
+                     <p>A Stone like a <hi>Dogs tooth.</hi>
+                     </p>
+                     <p>
+                        <hi>Agate Stones</hi> like the eyes of fiſhes.</p>
+                     <p>A Stone like a little <hi>eare.</hi>
+                     </p>
+                     <p>A Stone like ones <hi>gummes</hi> with teeth.</p>
+                     <p>A Stone like the little Toe of ones left foot.</p>
+                     <p>A Stone like the <hi>ſecret parts</hi> of a Woman.</p>
+                     <p>Several Stones like unto <hi>Sugar plums,</hi> Sweet-meates, March-pane, Sugar-candy, Sugar-cake and the like, and divers other ſorts of ſtone of the like nature.</p>
+                  </div>
+               </div>
+               <div n="5" type="section">
+                  <pb n="56" facs="tcp:55468:30"/>
+                  <head>
+                     <hi>V.</hi> Things of ſtrange Operation.</head>
+                  <p>A Hard white <hi>Stone,</hi> that if one puts it in the fire, doth ſuddenly turn to <hi>duſt.</hi>
+                  </p>
+                  <p>Stones that being put into a glaſſe of wa<g ref="char:EOLhyphen"/>ter, crack into ſmall peces, ſo that one may hear them crackle.</p>
+                  <p>A <hi>Stone</hi> that if one blows on it, it ſmells; but if one does not blow, it will not ſmell at all; and the harder one blowes, the ſtronger it ſents.</p>
+                  <p>A <hi>Stone</hi> that if one puts it on the fire, gives an excellent ſmell.</p>
+                  <p>A <hi>Stone</hi> that is hard and heavy, yet be<g ref="char:EOLhyphen"/>ing put in the water does ſent odoriferouſly like a hat-full of violet flowers.</p>
+                  <p>A good <hi>Load-Stone,</hi> that is as rare as any other thing, though common for his ſudden attraction of Iron.</p>
+                  <p>A Stone being held in a moiſt hand, gives
+<pb n="57" facs="tcp:55468:30"/>
+a ſent like a naſty hog, and therefore is called the <hi>ſwine ſtone.</hi>
+                  </p>
+                  <p>A peece of <hi>Wood</hi> as bad for being ſcraped; and a little worme, ſmells like a ſtinking Jakes.</p>
+                  <p>A peece of <hi>Wood</hi> being ſcrapt in a glaſſe of water, it makes the water appear of two colours; for if one hold the glaſſe betwixt two men, the one will ſay it is yellow and the other will ſay that it is of a darke blew.</p>
+                  <p>A peece of wood that is not heavy, yet ſinks ſuddenly under water.</p>
+                  <p>A ſtone, ſo hard, that can it ſcratch ſteel, yet being caſt in the water does not ſink but ſwimes on the water.</p>
+                  <p>A <hi>Mineral stone,</hi> that rubbing of it to a peece of bright <hi>Iron</hi> or Steele, turns it ſud<g ref="char:EOLhyphen"/>denly into <hi>Copper.</hi>
+                  </p>
+                  <p>
+                     <hi>Stones</hi> from the Weſt <hi>India</hi> that are hard, yet being put in <hi>vineger</hi> ſtirs to and fro, and ſeemes to creep or go.</p>
+                  <p>Other ſorts of <hi>Stones</hi> that have the like property of ſtirring in <hi>vineger.</hi>
+                  </p>
+                  <p>
+                     <pb n="58" facs="tcp:55468:31"/>But above all theſe Stones for admiration, is a little ſtone like a gray coloured Agate, called by ſome <hi>Oculus Mundi;</hi> it being put in a glaſſe of clear water, becomes as clear as cryſtal, and then taken out, in a little time returnes to its firſt opacity; this Rari<g ref="char:EOLhyphen"/>ty was preſented to the better adorning of the forementioned curioſities, by worthy Sr. <hi>Francis Peters.</hi>
+                  </p>
+                  <p>A <hi>mineral</hi> ſubſtance, that being put in a glaſſe of wine, makes infinite bubbles like atomes that riſes in the middle of the Wine to the delighting of the beholders.</p>
+                  <p>An other mineral ſubſtance, like ſilke, called <hi>Amianthus,</hi> and alſo <hi>Asbeſtos,</hi> it being put in the fire does not conſume.</p>
+                  <p>A <hi>Cruſtated Sponge;</hi> a little of it dryed and applyed to ones wriſt, makes it to itch for eight dayes together.</p>
+                  <p>A <hi>fruit</hi> that being ſtuck on a forke and then held over a candle, makes a very plea<g ref="char:EOLhyphen"/>ſant fire work.</p>
+                  <p>A <hi>Roſe</hi> of <hi>Jerico</hi> that is drawn up together, a little bigger then a tenis ball, and is an hundred years old.</p>
+                  <p>
+                     <pb n="59" facs="tcp:55468:31"/>Beſides theſe above mentioned things, there are Cheſts and Boxes furniſhed with many hundreds of Rarities, as ſeveral ſhells, ſtones, bones, marcaſits, mineralls, fruits, Nutts, excreſcences, and ſuch like things all different in ſhapes, and operations, and of divers countries, Their Names and Na<g ref="char:EOLhyphen"/>tures being omitted for to avoid prolixity: But if the owner of this collection of Rari<g ref="char:EOLhyphen"/>ties does ſell them to any Noble minded party, he then, God willing, will write at large a more ample declaration to the ex<g ref="char:EOLhyphen"/>preſſing of each thing in particular, to ho<g ref="char:EOLhyphen"/>nour that vertuous perſon that ſhall buy them.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_contributors">
+            <pb n="60" facs="tcp:55468:32"/>
+            <head>A Catalogue of the Names of thoſe Great Princes and perſons of Quality whoſe Love of Vertue, Learning and of the ad<g ref="char:EOLhyphen"/>mirable workes of God in Natural Rarities has been ſhewed by their Bountifull adding of ſomething to the increaſe of the foremen<g ref="char:EOLhyphen"/>tioned Collection.</head>
+            <list>
+               <item>
+                  <hi>CHARLES</hi> the Firſt, King of Great <hi>Britaine, France</hi> and <hi>Ireland,</hi> &amp;c.</item>
+               <item>
+                  <hi>CHARLES</hi> the Second, King of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland, France,</hi> and <hi>Ireland.</hi>
+               </item>
+               <item>
+                  <hi>Ferdinand.</hi> the third, Emper. of <hi>Germany</hi> &amp;c.</item>
+               <item>
+                  <hi>Elionora</hi> Empreſſe, &amp;c.</item>
+               <item>
+                  <hi>Ferdinand.</hi> the fourth, King of the <hi>Romans,</hi> &amp;c.</item>
+               <item>
+                  <hi>Elleonora</hi> Queen Dowagere of <hi>Sweade,</hi> &amp;c.</item>
+               <item>
+                  <hi>Christina</hi> Queen of <hi>Swede,</hi> &amp;c.</item>
+               <item>
+                  <hi>John Philips</hi> Archbiſhop of <hi>Mentz</hi> and Prince Elector, &amp;c.</item>
+               <item>
+                  <hi>Charles Lewis</hi> Palſgrave of the <hi>Rhein</hi> and Prince Elector, &amp;c.</item>
+               <item>
+                  <hi>John George</hi> Prince Elector of <hi>Saxony,</hi> &amp;c.</item>
+               <item>
+                  <hi>Maximilianus Henry</hi> Archbiſhop of Collen and Prince Elector, &amp;c.</item>
+               <item>
+                  <hi>Chriſtian Lewis</hi> Duke of <hi>Lunemburg</hi> and <hi>Brunzwich,</hi> &amp;c.</item>
+               <item>
+                  <pb n="61" facs="tcp:55468:32"/>
+                  <hi>Frederick</hi> Duke of <hi>Holſtein,</hi> &amp;c.</item>
+               <item>
+                  <hi>William</hi> Landgrave of <hi>Heſſen,</hi> Prince of <hi>Herſefeild,</hi> &amp;c.</item>
+               <item>
+                  <hi>Gaſton</hi> Duke of <hi>Orleans,</hi> &amp;c.</item>
+               <item>
+                  <hi>Philip</hi> Earl of <hi>Pembrooke.</hi>
+               </item>
+               <item>Monſieur <hi>de Believre</hi> Great Prreſident of <hi>France.</hi>
+               </item>
+               <item>The Honorable Sr. <hi>Thomas Row,</hi> His Maje<g ref="char:EOLhyphen"/>ſties Ambaſſadour to the Great Mogor in <hi>India,</hi> and alſo Embaſſador to the Em<g ref="char:EOLhyphen"/>perour of the Turks at <hi>Conſtantinople,</hi> and to the Emperour of <hi>Germany</hi> and alſo to divers other Kings, Princes and Free States.</item>
+               <item>Sr. <hi>Thomas Wardner</hi> General for the <hi>Caribea</hi> Iſlands, and Governour of St. <hi>Chriſtophers,</hi> and one of the Gentlemen of the Privy Chamber to King <hi>Charles</hi> the firſt.</item>
+               <item>Sr. <hi>Francis Peters</hi> a friend to Ingenuity and Rarities.</item>
+               <item>
+                  <hi>Frederick Shink</hi> Governour of <hi>Selle,</hi> and Privy Councellour to the Duke of <hi>Brunz<g ref="char:EOLhyphen"/>wich.</hi>
+               </item>
+               <item>The Learned <hi>Petrus Cariſius</hi> Reſident for the King of <hi>Denmark,</hi> in the united Pro<g ref="char:EOLhyphen"/>vinces.</item>
+               <item>Sr. <hi>Theodore de Mayerne,</hi> Phyſitian to Queen Mother <hi>Heneretta, Maria.</hi>
+               </item>
+               <item>Eſquire <hi>Courtine</hi> a lover of vertue and Inge<g ref="char:EOLhyphen"/>nuity.</item>
+               <item>
+                  <pb n="62" facs="tcp:55468:33"/>Mr. <hi>Povey</hi> Treaſurer to his Royal Highneſſe the Duke of <hi>Yorke.</hi>
+               </item>
+               <item>Dr. <hi>Saltzman</hi> Phyſician, and Profeſſor in the Univerſity of <hi>Strasburgh.</hi>
+               </item>
+               <item>Dr. <hi>Fauſius,</hi> Profeſſor in the Univerſity of <hi>Hidelberg.</hi>
+               </item>
+               <item>Dr. <hi>Moretus,</hi> Profeſſor in Aſtronomy in the Univerſity of <hi>Prague.</hi>
+               </item>
+               <item>Dr. <hi>Cornelius van der Lingon</hi> Phyſician in the Univerſity of <hi>Utrecht.</hi>
+               </item>
+               <item>Dr. <hi>Houſewetel,</hi> Phyſician to the King of <hi>Sweden,</hi> and Cheif Phyſician in <hi>Hamburg.</hi>
+               </item>
+               <item>Dr. <hi>Bezler</hi> Cheif Phyſician in <hi>Nuramberg.</hi>
+               </item>
+               <item>Dr. <hi>Brown</hi> Phyſician in <hi>Ausburg.</hi>
+               </item>
+               <item>Dr. <hi>Dewit,</hi> Phyſician in the Country of Lief<g ref="char:EOLhyphen"/>land.</item>
+               <item>Dr. <hi>Eaſtgate,</hi> Phyſician in <hi>Poplar.</hi>
+               </item>
+               <item>Mr. <hi>Thornton</hi> Chaplain to the Righ Honora<g ref="char:EOLhyphen"/>ble Earl of <hi>Bedford.</hi>
+               </item>
+               <item>Mr. <hi>Cornelius Middlegeſt,</hi> Clerk to the Com<g ref="char:EOLhyphen"/>pany of the Royal Adventurers of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> Trading into <hi>Africa.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55468:33" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
